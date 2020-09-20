@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30104.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EasyWinScpScript", "EasyWinScpScript\EasyWinScpScript.csproj", "{3AB7B5DC-C4C1-409C-8659-F129A6D748FA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3AB7B5DC-C4C1-409C-8659-F129A6D748FA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3AB7B5DC-C4C1-409C-8659-F129A6D748FA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3AB7B5DC-C4C1-409C-8659-F129A6D748FA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3AB7B5DC-C4C1-409C-8659-F129A6D748FA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D610C8C9-CF78-48C1-80F1-1CAE86916554}
+	EndGlobalSection
+EndGlobal
